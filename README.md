@@ -1,1 +1,1 @@
-# https://chandrabhushannew.weather.github.io/Bhushannew/
+# https://bhushannew.github.io/Bhushannew/
